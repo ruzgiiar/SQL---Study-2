@@ -1,5 +1,7 @@
 # SQL --- Study -- 2
+
 ---
+
 ## (IN, BETWEEN) Operator Pratic
 
 ---
@@ -16,6 +18,10 @@
 
 ---
 
-***Hüseyin YİĞİT***                                                                                                                                     www.patika.dev
+***Hüseyin YİĞİT***
+
+---
+
+www.patika.dev
 
 ---
