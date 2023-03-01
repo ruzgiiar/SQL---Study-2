@@ -13,3 +13,9 @@
 ---
 
 ![SQL2](https://www.simplilearn.com/ice9/free_resources_article_thumb/Concat_in_SQL.jpg)
+
+---
+
+***Hüseyin YİĞİT***
+
+---
